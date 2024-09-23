@@ -1,3 +1,4 @@
+# NBrowse tutorial
 
 The different **edge types** in the network you shared correspond to various kinds of interactions between the genes in *Caenorhabditis elegans* (C. elegans) and other organisms. Each abbreviation or label represents a specific type of interaction or data source, indicating how two genes or proteins are related. 
 
