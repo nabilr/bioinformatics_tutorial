@@ -1,2 +1,4 @@
-# bioinformatics_tutorial
-bioinformatics tutorial
+# Bioinformatics Tutorial
+
+-  [NBrowse](nbrowse.md)
+-  [FASTQ FILE](fastqfile.md)
